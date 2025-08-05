@@ -62,6 +62,8 @@ We produced [this story pack](https://docs.google.com/document/d/1xur5PySsEQ6g3x
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- Wrexham.com: [More than £3.7m in Premium Bond prizes unclaimed in Wales](https://wrexham.com/news/more-than-3-7m-in-premium-bond-prizes-unclaimed-in-wales-274777.html) *5 August 2025*
+- Midlothian View: [More than £100m of premium bond prizes remain unclaimed](https://www.midlothianview.com/news/more-than-100m-of-premium-bond-prizes-remain-unclaimed) *5 August 2025*
 - 
 
 ## Other usage
