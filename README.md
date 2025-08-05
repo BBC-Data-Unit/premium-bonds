@@ -74,7 +74,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Reading Chronicle: [Premium bond prizes in Berkshire left unclaimed, huge sums](https://www.readingchronicle.co.uk/news/25365119.premium-bond-prizes-berkshire-left-unclaimed-huge-sums/) *5 August 2025*
 - AOL: [NS&I urged to sign up to services to simplify process for reporting a death](https://www.aol.co.uk/?err=404&err_url=https%3a%2f%2fwww.aol.co.uk%2fns-urged-sign-services-simplify-114802583) *5 August 2025*
 - Birmingham Live: [NS&I issues warning to all 24 million Premium Bonds holders 'for first time'](https://www.birminghammail.co.uk/news/cost-of-living/nsi-issues-warning-24-million-32200913) *5 August 2025*
-- 
+- Meon Valley Times: [£2.6m in Premium Bonds prizes remain unclaimed in Hampshire and Isle of Wight](https://meonvalleytimes.co.uk/2-6m-in-premium-bonds-prizes-remain-unclaimed-in-hampshire-and-isle-of-wight/) *5 August 2025*
 
 ## Other usage
 - The Express: ['Shocking' £100m of premium bond prizes still waiting to be claimed](https://www.express.co.uk/finance/personalfinance/2091170/100m-premium-bond-prizes-unclaimed) *5 August 2025*
