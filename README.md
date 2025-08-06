@@ -79,6 +79,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Northern Echo: [2.5 million Premium Bond prizes worth £100 million unclaimed](https://www.thenorthernecho.co.uk/news/national/uk-today/25358838.2-5-million-premium-bond-prizes-worth-100-million-unclaimed/) *5 August 2025*
 - Reading Chronicle: [Premium bond prizes in Berkshire left unclaimed, huge sums](https://www.readingchronicle.co.uk/news/25365119.premium-bond-prizes-berkshire-left-unclaimed-huge-sums/) *5 August 2025*
 - The Herald Series: [2.5 million Premium Bond prizes worth £100 million unclaimed](https://www.heraldseries.co.uk/news/25365749.2-5-million-premium-bond-prizes-worth-100-million-unclaimed/) *5 August 2025*
+- The Telegraph & Argus: [2.5 million Premium Bond prizes worth £100 million unclaimed](https://www.thetelegraphandargus.co.uk/news/national/uk-today/25358838.2-5-million-premium-bond-prizes-worth-100-million-unclaimed/) *5 August 2025*
 - Western Telegraph: [2.5 million Premium Bond prizes worth £100 million unclaimed](https://www.westerntelegraph.co.uk/news/25367812.2-5-million-premium-bond-prizes-worth-100-million-unclaimed/) *6 August 2025*
 - Worcester News: [Over £1 million unclaimed Premium Bonds in Worcester](https://www.worcesternews.co.uk/news/25362099.1-million-unclaimed-premium-bonds-worcester/) *5 August 2025*
 - Wrexham.com: [More than £3.7m in Premium Bond prizes unclaimed in Wales](https://wrexham.com/news/more-than-3-7m-in-premium-bond-prizes-unclaimed-in-wales-274777.html) *5 August 2025*
