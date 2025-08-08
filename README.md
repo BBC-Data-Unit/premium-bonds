@@ -67,20 +67,24 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Cambridgeshire Live: [Urgent Premium Bonds warning as over £100 million in prizes remain unclaimed](https://www.cambridge-news.co.uk/news/uk-world-news/urgent-premium-bonds-warning-over-32206234) *5 August 2025*
 - Chepstow Beacon: [Wales has £3.7m in unclaimed Premium Bonds](https://www.chepstowbeacon.co.uk/news/wales-has-ps37m-in-unclaimed-premium-bonds-819321) *5 August 2025*
 - Congleton Nub News: [Over £1 million of premium bond prizes still waiting to be claimed in Cheshire](https://congleton.nub.news/news/local-news/over-ps1-million-of-premium-bond-prizes-still-waiting-to-be-claimed-in-cheshire-267724) *5 August 2025*
+- Deeside.com: [More than £3.7m in Premium Bond prizes unclaimed in Wales](https://www.deeside.com/more-than-3-7m-in-premium-bond-prizes-unclaimed-in-wales/) *5 August 2025*
 - East Anglian Daily Times: [Nearly £1 million in premium bonds unclaimed in Suffolk](https://www.eadt.co.uk/news/25366287.nearly-1-million-premium-bonds-unclaimed-suffolk/) *6 August 2025*
 - Eastern Daily Press: [£100m of Premium Bonds prizes still unclaimed NS&I announced](https://www.edp24.co.uk/news/25367179.100m-premium-bonds-prizes-still-unclaimed-ns-announced/) *5 August 2025*
 - East Lothian Courier: [More than £100 million Premium Bonds winnings unclaimed](https://www.eastlothiancourier.com/news/25368189.100-million-premium-bonds-winnings-unclaimed/?ref=rss) *5 August 2025*
 - Eastern Eye: [Calls for reform as millions in Premium Bond prizes remain unclaimed](https://www.easterneye.biz/premium-bonds-unclaimed-prizes-reform/) *5 August 2025*
 - Fakenham & Wells Times: [£100m of Premium Bonds prizes still unclaimed NS&I announced](https://www.fakenhamtimes.co.uk/news/25367179.100m-premium-bonds-prizes-still-unclaimed-ns-announced/) *5 August 2025*
+- Hereford Times: [Unclaimed Herefordshire and Worcestershire premium bond wins](https://www.herefordtimes.com/news/25357130.unclaimed-herefordshire-worcestershire-premium-bond-wins/) *8 August 2025*
 - Kenilworth Nub News: [Over £650k of premium bond prizes still waiting to be claimed in Warwickshire](https://kenilworth.nub.news/news/local-news/over-ps650k-of-premium-bond-prizes-still-waiting-to-be-claimed-in-warwickshire-267751) *5 August 2025*
 - Kent Online: [Revealed: £2.5m in unclaimed Premium Bond prizes in Kent](https://www.kentonline.co.uk/kent/news/revealed-2-5m-in-unclaimed-premium-bond-prizes-in-kent-328161/) *5 August 2025*
 - Kidderminster Shuttle: [Over £1 million unclaimed Premium Bonds in Worcester](https://www.kidderminstershuttle.co.uk/news/25362099.1-million-unclaimed-premium-bonds-worcester/?ref=rss) *5 August 2025*
 - Leicestershire Live: ['Shocking' £100m of premium bond prizes still waiting to be claimed](https://www.leicestermercury.co.uk/news/uk-world-news/shocking-100m-premium-bond-prizes-10400618) *5 August 2025*
 - Lincs Online: [Revealed: £750,000 in unclaimed Premium Bond prizes in Lincolnshire](https://www.lincsonline.co.uk/lincoln/more-than-750-000-in-unclaimed-premium-bond-prizes-in-linco-9428422/) *5 August 2025*
+- Liverpool Echo: [Thousands of people being reunited with missing NS&I prizes and 'lost' accounts](https://www.liverpoolecho.co.uk/news/cost-of-living/thousands-people-being-reunited-missing-32217535) *7 August 2025*
 - Malvern Gazette: [Over £1 million unclaimed Premium Bonds in Worcester](https://www.malverngazette.co.uk/news/25362099.1-million-unclaimed-premium-bonds-worcester/) *5 August 2025*
 - Manchester Evening News: [NS&I urged to make major change 'to set an example for the wider industry'](https://www.manchestereveningnews.co.uk/news/uk-news/nsi-urged-make-major-change-32203310) *5 August 2025*
 - Meon Valley Times: [£2.6m in Premium Bonds prizes remain unclaimed in Hampshire and Isle of Wight](https://meonvalleytimes.co.uk/2-6m-in-premium-bonds-prizes-remain-unclaimed-in-hampshire-and-isle-of-wight/) *5 August 2025*
 - Midlothian View: [More than £100m of premium bond prizes remain unclaimed](https://www.midlothianview.com/news/more-than-100m-of-premium-bond-prizes-remain-unclaimed) *5 August 2025*
+- 
 - Newark Advertiser: [Revealed: £950,000 in unclaimed Premium Bond prizes in Nottinghamshire](https://www.newarkadvertiser.co.uk/news/more-than-950-000-in-unclaimed-premium-bond-prizes-in-notti-9428429/) *5 August 2025*
 - Newbury Today: [Unclaimed Premium Bond prizes in Berkshire total £1.4m](https://www.newburytoday.co.uk/news/unclaimed-premium-bond-prizes-in-berkshire-reach-1-4m-9428361/) *6 August 2025*
 - Northern Echo: [2.5 million Premium Bond prizes worth £100 million unclaimed](https://www.thenorthernecho.co.uk/news/national/uk-today/25358838.2-5-million-premium-bond-prizes-worth-100-million-unclaimed/) *5 August 2025*
